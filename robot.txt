@@ -1,0 +1,3 @@
+user-agent: *
+Disallow: /about
+Disallow: /our-work
